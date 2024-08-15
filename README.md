@@ -6,11 +6,11 @@
   <h3 align="center">Netflix Clone</h3>
 
   <p align="center">
-    <a href="https://netflix-clone-react-typescript.vercel.app/">View Demo</a>
+    <a href="https://netflix-clone.vercel.app/">View Demo</a>
     ·
     <a href="https://github.com/bshongwe/netflix-clone/issues">Report Bug</a>
     ·
-    <a href="https://github.com/crazy-man22/netflix-clone/issues">Request Feature</a>
+    <a href="https://github.com/bshongwe/netflix-clone/issues">Request Feature</a>
   </p>
 </div>
 
@@ -24,6 +24,12 @@
       <a href="#which-features-this-project-deals-with">Which features this project deals with</a>
     </li>
     <li><a href="#third-party-libraries-used-except-for-react-and-rtk">Third Party libraries used except for React and RTK</a></li>
+    <li>
+      <a href="#install-with-docker">Install with Docker</a>
+    </li>
+    <li>
+      <a href="#todo">Todo</a>
+    </li>
     <li>
       <a href="#contact">Contact</a>
     </li>
@@ -93,3 +99,7 @@ docker run --name netflix-clone-website --rm -d -p 80:80 netflix-clone
 - Replace bundler([Vite](https://vitejs.dev/guide)) with [Turbopack](https://turbo.build/pack/docs/why-turbopack). Turbopack is introduced in Next.js conf recently. It's very fast but it's nor ready to use right now. it just support Next.js, and they plan to support all others as soon as possible. so if it's ready to use, replace [Vite](https://vitejs.dev/guide) with [Turbopack](https://turbo.build/pack/docs/why-turbopack).
 - Add accessibilities for better UX.
 - Add Tests.
+
+## Contact
+
+- [email](mailto:shongwe.bhekizwe@yahoo.com)
