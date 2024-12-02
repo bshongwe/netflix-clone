@@ -1,3 +1,9 @@
+![Visits Badge](https://badges.pufler.dev/visits/bshongwe/Leet-Code)
+![GitHub Repo Stars](https://img.shields.io/github/stars/bshongwe/Leet-Code)
+![GitHub Forks](https://img.shields.io/github/forks/bshongwe/Leet-Code)
+![GitHub Issues](https://img.shields.io/github/issues/bshongwe/Leet-Code)
+![GitHub License](https://img.shields.io/github/license/bshongwe/Leet-Code)
+
 <div align="center">
   <a href="http://netflix-clone-with-tmdb-using-react-mui.vercel.app/">
     <img src="./public/assets/netflix-logo.png" alt="Logo" width="100" height="32">
